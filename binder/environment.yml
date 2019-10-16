@@ -7,5 +7,6 @@ dependencies:
   - intake
   - gcsfs
   - rise
+  - zarr
   - pip:
     - jupyter-contrib-nbextensions
